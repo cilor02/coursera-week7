@@ -77,7 +77,11 @@ trait Solver extends GameDef {
              }
              
             val next = fromHelper(initial,explored)
-            from(initial #::: next,next.unzip._1.toSet)
+            next match
+            {
+              case Stream.Empty => initial
+              case _          => from(initial #::: next,next.unzip._1.toSet)
+            }
            }
 
   /**
