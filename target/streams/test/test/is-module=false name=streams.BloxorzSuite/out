@@ -1,18 +1,6 @@
 [0m[[0minfo[0m] [0m[32mBloxorzSuite:[0m[0m
 [0m[[0minfo[0m] [0m[32m- terrain function level 1[0m[0m
-[0m[[0minfo[0m] [0m[31m- findChar level 1 *** FAILED ***[0m[0m
-[0m[[0minfo[0m] [0m[31m  java.lang.IndexOutOfBoundsException: -1[0m[0m
-[0m[[0minfo[0m] [0m[31m  at scala.collection.immutable.Vector.checkRangeConvert(Vector.scala:137)[0m[0m
-[0m[[0minfo[0m] [0m[31m  at scala.collection.immutable.Vector.apply(Vector.scala:127)[0m[0m
-[0m[[0minfo[0m] [0m[31m  at streams.StringParserTerrain$class.findChar(StringParserTerrain.scala:76)[0m[0m
-[0m[[0minfo[0m] [0m[31m  at streams.BloxorzSuite$$anonfun$2$$anon$2.findChar(BloxorzSuite.scala:52)[0m[0m
-[0m[[0minfo[0m] [0m[31m  at streams.StringParserTerrain$class.startPos(StringParserTerrain.scala:97)[0m[0m
-[0m[[0minfo[0m] [0m[31m  at streams.BloxorzSuite$$anonfun$2$$anon$2.startPos$lzycompute(BloxorzSuite.scala:52)[0m[0m
-[0m[[0minfo[0m] [0m[31m  at streams.BloxorzSuite$$anonfun$2$$anon$2.startPos(BloxorzSuite.scala:52)[0m[0m
-[0m[[0minfo[0m] [0m[31m  at streams.BloxorzSuite$$anonfun$2$$anon$2.<init>(BloxorzSuite.scala:53)[0m[0m
-[0m[[0minfo[0m] [0m[31m  at streams.BloxorzSuite$$anonfun$2.apply$mcV$sp(BloxorzSuite.scala:52)[0m[0m
-[0m[[0minfo[0m] [0m[31m  at streams.BloxorzSuite$$anonfun$2.apply(BloxorzSuite.scala:52)[0m[0m
-[0m[[0minfo[0m] [0m[31m  ...[0m[0m
+[0m[[0minfo[0m] [0m[32m- findChar level 1[0m[0m
 [0m[[0minfo[0m] [0m[31m- optimal solution for level 1 *** FAILED ***[0m[0m
 [0m[[0minfo[0m] [0m[31m  scala.NotImplementedError: an implementation is missing[0m[0m
 [0m[[0minfo[0m] [0m[31m  at scala.Predef$.$qmark$qmark$qmark(Predef.scala:252)[0m[0m
