@@ -1242,7 +1242,7 @@
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.scala-sbt#cache;0.12.4!cache.jar[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.scala-sbt#test-agent;0.12.4!test-agent.jar[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.scala-tools.testing#test-interface;0.5!test-interface.jar[0m
-[0m[[0mdebug[0m] [0m:: resolution report :: resolve 3802ms :: artifacts dl 199ms[0m
+[0m[[0mdebug[0m] [0m:: resolution report :: resolve 2351ms :: artifacts dl 341ms[0m
 [0m[[0mdebug[0m] [0m	report for default#default-e4ca60;0.1-SNAPSHOT compile produced in C:\coursera\streams\project\project\target\resolution-cache\reports\default-default-e4ca60-compile.xml[0m
 [0m[[0mdebug[0m] [0m	report for default#default-e4ca60;0.1-SNAPSHOT runtime produced in C:\coursera\streams\project\project\target\resolution-cache\reports\default-default-e4ca60-runtime.xml[0m
 [0m[[0mdebug[0m] [0m	report for default#default-e4ca60;0.1-SNAPSHOT test produced in C:\coursera\streams\project\project\target\resolution-cache\reports\default-default-e4ca60-test.xml[0m
@@ -1255,5 +1255,5 @@
 [0m[[0mdebug[0m] [0m	report for default#default-e4ca60;0.1-SNAPSHOT sources produced in C:\coursera\streams\project\project\target\resolution-cache\reports\default-default-e4ca60-sources.xml[0m
 [0m[[0mdebug[0m] [0m	report for default#default-e4ca60;0.1-SNAPSHOT docs produced in C:\coursera\streams\project\project\target\resolution-cache\reports\default-default-e4ca60-docs.xml[0m
 [0m[[0mdebug[0m] [0m	report for default#default-e4ca60;0.1-SNAPSHOT pom produced in C:\coursera\streams\project\project\target\resolution-cache\reports\default-default-e4ca60-pom.xml[0m
-[0m[[0mdebug[0m] [0m	resolve done (3802ms resolve - 199ms download)[0m
+[0m[[0mdebug[0m] [0m	resolve done (2351ms resolve - 341ms download)[0m
 [0m[[0minfo[0m] [0mDone updating.[0m

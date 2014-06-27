@@ -4,7 +4,7 @@
 		module="default-d7ddeb"
 		revision="0.1-SNAPSHOT"
 		status="integration"
-		publication="20140625080619"
+		publication="20140626123222"
 		e:scalaVersion="2.9.2" e:sbtVersion="0.12"
 	>
 		<description>
